@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="variousConcept.excersiceWindowHandle">
+      <class name="Session5HW.practice">
         <methods>
-          <include name="testWindowHandle"/>
-          <include name="init"/>
+          <include name="test"/>
         </methods>
-      </class> <!-- variousConcept.excersiceWindowHandle -->
+      </class> <!-- Session5HW.practice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
